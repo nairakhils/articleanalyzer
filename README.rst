@@ -1,4 +1,4 @@
-Welcome to the docs page of Article Analyzer
+Welcome to the docs page of idresearch
 ============================================
 
 |codeastro svg1|
@@ -8,4 +8,3 @@ Welcome to the docs page of Article Analyzer
 
 Read the docs content here:
 
-https://articleanalyzer.readthedocs.io/en/latest/artanalyze.html
