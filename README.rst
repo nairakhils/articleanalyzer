@@ -1,10 +1,8 @@
 Welcome to the docs page of Article Analyzer
 ============================================
 
-|Generic badge|
-
-.. |Generic badge| image:: https://img.shields.io/badge/Made%20at-Code/Astro-blueviolet.svg
-   :target:
+.. |Open Source Love svg1| image:: https://badges.frapsoft.com/os/v1/open-source.svg?v=103
+   :target: https://github.com/ellerbrock/open-source-badges/
 
 Read the docs content here:
 
