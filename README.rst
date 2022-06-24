@@ -7,4 +7,4 @@ Welcome to the docs page of idresearch
    :target: https://semaphorep.github.io/codeastro/
 
 Read the docs content here:
-
+https://idresearch.readthedocs.io/en/latest/
