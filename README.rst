@@ -8,3 +8,8 @@ Welcome to the docs page of idresearch
 
 Read the docs content here:
 https://idresearch.readthedocs.io/en/latest/idresearch.html
+
+
+Installation docs:
+
+https://pypi.org/project/idresearch/1.0.0/
