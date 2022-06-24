@@ -10,6 +10,5 @@ Read the docs content here:
 https://idresearch.readthedocs.io/en/latest/idresearch.html
 
 
-Installation docs:
-
+Installation docs: 
 https://pypi.org/project/idresearch/1.0.0/
