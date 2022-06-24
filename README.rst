@@ -1,7 +1,10 @@
 Welcome to the docs page of Article Analyzer
 ============================================
 
-[![A rectangular badge, half black half purple containing the text made at Code Astro](https://img.shields.io/badge/Made%20at-Code/Astro-blueviolet.svg)](https://semaphorep.github.io/codeastro/)
+|Generic badge|
+
+.. |Generic badge| image:: https://img.shields.io/badge/Made%20at-Code/Astro-blueviolet.svg
+   :target:
 
 Read the docs content here:
 
