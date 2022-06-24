@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
-=======================================
+Welcome to the docs page of Article Analyzer
+============================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+[![codeastro]
 
-Read the tutorial here:
+Read the docs content here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://articleanalyzer.readthedocs.io/en/latest/artanalyze.html
