@@ -1,8 +1,10 @@
 Welcome to the docs page of Article Analyzer
 ============================================
 
-.. |Open Source Love svg1| image:: https://badges.frapsoft.com/os/v1/open-source.svg?v=103
-   :target: https://github.com/ellerbrock/open-source-badges/
+|codeastro svg1|
+
+.. |codeastro svg1| image:: https://img.shields.io/badge/Made%20at-Code/Astro-blueviolet.svg
+   :target: https://semaphorep.github.io/codeastro/
 
 Read the docs content here:
 
