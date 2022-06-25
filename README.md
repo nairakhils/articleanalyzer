@@ -14,15 +14,21 @@ idresearch is a package aimed to help researchers help identify relevant papers 
 
 ## Installation
 
+
+1. Clone the repository to your local machine.
+```
+git clone https://github.com/nairakhils/idresearch.git
+```
+
 **idresearch** requires additional direct dependencies to work.
 
-Install the dependencies before installing idsearch (https://spacy.io/models/en#en_core_web_md).
+2. Install the dependencies before installing idsearch (https://spacy.io/models/en#en_core_web_md).
 
 ```sh
 python -m spacy download en_core_web_md
 ```
 
-After installing the **en_core_web_md** spacy model...
+3. After installing the **en_core_web_md** spacy model...
 
 cd to the directory containing _setup.py_
 
