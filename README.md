@@ -34,7 +34,7 @@ python setup.py install
 
 
 
-## Look into the Tutorials folder to get a quick rundown on using idresearch!
+## Look into the ['Tutorials'](https://github.com/nairakhils/idresearch/blob/main/tutorials/tutorial.md) folder to get a quick rundown on using idresearch!
 
 
 >PDF file reader and article result comparison script is under development
