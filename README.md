@@ -29,4 +29,5 @@ pip install idresearch
 ## Documentation Links
 
 **ReadTheDocs**: https://idresearch.readthedocs.io/en/latest/idresearch.html
+
 **PyPi Installation Docs**: https://pypi.org/project/idresearch/
