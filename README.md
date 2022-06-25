@@ -25,11 +25,10 @@ After installing the **en_core_web_md** spacy model...
 cd to the directory containing _setup.py_
 
 ```sh
-pip install -e
+python setup.py install
 ```
 
 ## Documentation Links
 
 **ReadTheDocs**: https://idresearch.readthedocs.io/en/latest/idresearch.html
 
-**PyPi Installation Docs**: https://pypi.org/project/idresearch/
