@@ -174,16 +174,15 @@ def summarize_doc(raw_abs, n):
 
 
 def doc_stats(raw_abs):
-    """Summarize the abstract document
+    """Abstract Statistics
 
-    Summarizes the abstract by assigning weights to each sentence (based on common words and length of sentences).
+    Finds most frequently used keywords in the abstract.
 
     Args:
         raw_abs (str): string. Raw text of any article abstract.
-        n (int): integer. Number of lines for the summary.
-    
+
     Returns:
-        summary (str): string. Summary of the abstract in 'n' number of lines, based on the arguement.
+        freq_ans (dict): dictionary. Shows the word and number of occurences in the abstract.
     """
     doc1 = nlp(raw_abs)
     keywords = []

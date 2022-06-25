@@ -1,9 +1,9 @@
-.. _textanalyzer:
+.. _idresearch:
 
 idresearch Functions
-===========================
+=====================
 
-Functions to obtain article recommendations from SemanticScholar AI API and Text Analysis using Natural Language Processing.
+Functions of idresearch.
 
 .. automodule:: idresearch
    :members:
