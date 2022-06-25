@@ -34,10 +34,10 @@ python setup.py install
 ### To find most common keywords in an abstract
 
 ```
-import idresearch as idr
-url = "https://arxiv.org/abs/2103.12877"
-main_abs = idr.main_abstract(url)
-print(idr.doc_stats(main_abs))
+>> import idresearch as idr
+>> url = "https://arxiv.org/abs/2103.12877"
+>> main_abs = idr.main_abstract(url)
+>> print(idr.doc_stats(main_abs))
 ```
 **Output**
 ```
@@ -48,20 +48,20 @@ print(idr.doc_stats(main_abs))
 ### To get recommended papers using Semantic Scholar API, and save the details as a csv file
 
 ```
-import idresearch as idr
-url = "https://arxiv.org/abs/2103.12877"
-reco_papers = idr.get_reco_df(url)  ##this will create a pandas dataframe
+>> import idresearch as idr
+>> url = "https://arxiv.org/abs/2103.12877"
+>> reco_papers = idr.get_reco_df(url)  ##this will create a pandas dataframe
 
-idr.export_reco_csv(url)   ##To save the dataframe as a csv directly to your current directory
+>> idr.export_reco_csv(url)   ##To save the dataframe as a csv directly to your current directory
 ```
 
 
 ### To plot Number of Papers published vs Year of publication (for recommended papers)
 
 ```
-import idresearch as idr
-url = "https://arxiv.org/abs/2103.12877"
-idr.plot_YearTrend_url(url)
+>> import idresearch as idr
+>> url = "https://arxiv.org/abs/2103.12877"
+>> idr.plot_YearTrend_url(url)
 ```
 
 ### To perform the Name Entity Recognition of abstract text
@@ -69,13 +69,13 @@ idr.plot_YearTrend_url(url)
 *Returns a list for ORG_type entity and PRODUCT_type entity each* (https://spacy.io/usage/linguistic-features#named-entities)
 
 ```
-import idresearch as idr
-url = "https://arxiv.org/abs/2103.12877"
-reco_abs = idr.reco_abstract(0, url)  ##abstract of first entry amongst recommended papers
+>> import idresearch as idr
+>> url = "https://arxiv.org/abs/2103.12877"
+>> reco_abs = idr.reco_abstract(0, url)  ##abstract of first entry amongst recommended papers
 
-print(idr.get_ner(reco_abs))
+>> print(idr.get_ner(reco_abs))
 ```
 **Output**
 ```
-(['the Orbits For The Impatient'], []) 
+>>> (['the Orbits For The Impatient'], []) 
 ```
