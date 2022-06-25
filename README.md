@@ -22,8 +22,10 @@ python -m spacy download en_core_web_md
 
 After installing the **en_core_web_md** spacy model...
 
+cd to the directory containing _setup.py_
+
 ```sh
-pip install idresearch
+pip install -e
 ```
 
 ## Documentation Links
