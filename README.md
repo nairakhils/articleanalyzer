@@ -37,5 +37,5 @@ python setup.py install
 ## Look into the Tutorials folder to get a quick rundown on using idresearch!
 
 
->PDF file reader and article result comparison script is under deveopment
+>PDF file reader and article result comparison script is under development
 
