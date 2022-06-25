@@ -12,7 +12,7 @@ idresearch is a package aimed to help researchers help identify relevant papers 
 
 ## Installation
 
-**idsearch** requires additional direct dependencies to work.
+**idresearch** requires additional direct dependencies to work.
 
 Install the dependencies before installing idsearch (https://spacy.io/models/en#en_core_web_md).
 
