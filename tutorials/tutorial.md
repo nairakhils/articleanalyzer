@@ -24,11 +24,11 @@ python setup.py install
 ### To find abstract of an arxiv paper
 
 ```
-import idresearch as idr
+>> import idresearch as idr
 
-url = "https://arxiv.org/abs/2103.12877"
-main_abs = idr.main_abstract(url)
-print(main_abs)
+>> url = "https://arxiv.org/abs/2103.12877"
+>> main_abs = idr.main_abstract(url)
+>> print(main_abs)
 ```
 
 ### To find most common keywords in an abstract
