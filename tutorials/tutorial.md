@@ -1,10 +1,9 @@
-# idresearch
+# idresearch &#x1F50E;&#128240;
 ## Tutorials
 
 [![codeastro](https://img.shields.io/badge/Made%20at-Code/Astro-blueviolet.svg)](https://semaphorep.github.io/codeastro/)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)]([http://ansicolortags.readthedocs.io/?badge=latest](https://idresearch.readthedocs.io/en/latest/idresearch.html))
-[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://GitHub.com/Naereen/badges/graphs/contributors/)
 
 ## Installation
 
