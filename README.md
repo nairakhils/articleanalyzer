@@ -33,7 +33,7 @@ python setup.py install
 **ReadTheDocs**: https://idresearch.readthedocs.io/en/latest/idresearch.html
 
 
-###Look into the Tutorials folder to get a quick rundown on using idreader!###
+##Look into the Tutorials folder to get a quick rundown on using idreader!##
 
 
 >PDF file reader and article result comparison script is under deveopment
