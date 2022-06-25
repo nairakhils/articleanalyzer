@@ -118,8 +118,6 @@ def get_reco_df(url):
     return new_df
 
 def export_reco_csv(url):
-    new_df = get_reco_df(url)
-    new_df.to_csv('recolist.csv')
     """Export Recommended Articles dataframe
 
     Exports a csv of all the recommended articles (url, abstract, year, publisher, citation_count)
@@ -128,9 +126,11 @@ def export_reco_csv(url):
         url (str): string. URL from semanticsscholar, arxiv, aclweb, acm, biorxiv are supported.
     
     Exports:
-        new_df (csv): csv. Exports a csv contatinig information on all recommended articles.
+        new_df (csv): csv. Exports a csv containing information on all recommended articles. Filename: recolist.csv
     """
-
+    new_df = get_reco_df(url)
+    new_df.to_csv('recolist.csv')
+    
 
 def summarize_doc(raw_abs, n):
     """Summarize the abstract document
